@@ -1,0 +1,33 @@
+.cookie {
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    font-size: 80px;
+    font-style: italic;
+    color: black;
+    margin-top:50px;
+}
+
+.mobilenumber{
+    font-size: 50px;
+    font-style: italic;
+}
+
+.whatsapp{
+    font-size: 50px;
+}
+
+.Instagram{
+    font-size: 50px;
+
+}
+
+.email{
+    font-size: 50px;
+}
+
+.contactus.html{
+   background-color: rgb(242, 199, 217);
+}
